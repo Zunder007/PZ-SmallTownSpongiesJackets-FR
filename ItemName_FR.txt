@@ -276,4 +276,14 @@ ItemName_FR = {
     ItemName_STR.Boilersuit_MeadeMaxPrisonerOPEN = "Tenue Prisonnier Haute Sécurité Meade County",
     ItemName_STR.Boilersuit_JeffersonPrisonerOPEN = "Tenue de Détenu Jefferson County",
     ItemName_STR.Boilersuit_RavenCreekPrisonerOPEN = "Tenue de Détenu RavenCreek",
+
+	ItemName_STR.Shirt_EMS_RavenCreek_SupervisorOPEN = "Chemise Officier Serv. Urgence Pompier RavenCreek",
+	ItemName_STR.Shirt_EMS_RavenCreek_SupervisorOPENROLL = "Chemise Officier Serv. Urgence Pompier RavenCreek",
+	ItemName_STR.Shirt_EMS_RavenCreek_SupervisorROLL = "Chemise Officier Serv. Urgence Pompier RavenCreek",
+	ItemName_STR.TShirt_EMS_RavenCreek_SupervisorOPEN = "T-Shirt Officier Serv. Urgence Pompier RavenCreek",
+	ItemName_STR.Vest_HighViz_KSPOPEN = "Gilet haute visibilité Police d'état",
+	ItemName_STR.Vest_HighViz_Police_GreenOPEN = "Gilet haute visibilité Police",
+	ItemName_STR.Vest_HighViz_Police_Green_UnmarkedOPEN = "Gilet haute visibilité Police",
+	ItemName_STR.Vest_HighViz_Police_TandilOPEN = "Gilet haute visibilité Police",
+	ItemName_STR.Vest_HighViz_Police_YellowOPEN = "Gilet haute visibilité Police",
 }
