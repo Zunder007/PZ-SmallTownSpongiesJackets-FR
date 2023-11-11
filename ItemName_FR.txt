@@ -281,9 +281,18 @@ ItemName_FR = {
 	ItemName_STR.Shirt_EMS_RavenCreek_SupervisorOPENROLL = "Chemise Officier Serv. Urgence Pompier RavenCreek",
 	ItemName_STR.Shirt_EMS_RavenCreek_SupervisorROLL = "Chemise Officier Serv. Urgence Pompier RavenCreek",
 	ItemName_STR.TShirt_EMS_RavenCreek_SupervisorOPEN = "T-Shirt Officier Serv. Urgence Pompier RavenCreek",
+
 	ItemName_STR.Vest_HighViz_KSPOPEN = "Gilet haute visibilité Police d'état",
 	ItemName_STR.Vest_HighViz_Police_GreenOPEN = "Gilet haute visibilité Police",
 	ItemName_STR.Vest_HighViz_Police_Green_UnmarkedOPEN = "Gilet haute visibilité Police",
 	ItemName_STR.Vest_HighViz_Police_TandilOPEN = "Gilet haute visibilité Police",
 	ItemName_STR.Vest_HighViz_Police_YellowOPEN = "Gilet haute visibilité Police",
+
+	STR.Jacket_Police_GreenportOPEN = "Veste Police Greenport",
+	STR.Jacket_Dress_Police_GreenportOPEN = "Manteau Police Greenport",
+	STR.Shirt_Police_GreenportROLL = "Chemise Police Greenport",
+	STR.Shirt_Police_GreenportOPEN = "Chemise Police Greenport",
+	STR.Shirt_Police_GreenportOPENROLL = "Chemise Police Greenport",
+	STR.TShirt_Police_GreenportOPEN = "T-Shirt Police Greenport",
+	STR.Trousers_Police_GreenportTUCK = "Pantalon Police Greenport",
 }
